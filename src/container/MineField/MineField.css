@@ -1,0 +1,33 @@
+.mine-field-main{
+    margin: 0 auto;
+    padding: 20px;
+    background: #15348a91;
+}
+
+.info-blk {
+    text-align: center;
+    color: #fff;
+}
+
+.info {
+    display: block;
+    margin: 10px;
+}
+
+.button-blk{
+    text-align: center;
+}
+
+.button{
+    margin-top: 20px;
+    height: 30px;
+    border-radius: 6px;
+    color: #1a2238;
+    border: 1px solid #1a2238;
+    cursor: pointer;
+}
+
+.button:hover{
+    background-color: #1a2238;
+    color: #fff !important;
+}

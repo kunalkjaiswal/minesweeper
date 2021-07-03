@@ -1,0 +1,23 @@
+
+.cell {
+    position: relative;
+    background-color: #fff;
+    border: 1px solid #15348a91;
+    border-radius: 4px;
+    float: left;
+    height: 45px;
+    width: 45px;
+    line-height: 45px;
+    color: #1A2238;
+    text-align: center;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.hidden {
+    background-color: #1A2238;
+}
+
+.flag, .mine {
+    color: #ff2700;
+}
