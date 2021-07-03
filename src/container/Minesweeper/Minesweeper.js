@@ -60,7 +60,7 @@ export default class Minesweeper extends Component {
                     </div>
                 </React.Fragment>:
                 <div className="warning-msg-blk">
-                    <span className="warning-msg">Please open in large screen device.</span>
+                    <span className="warning-msg">Please reload page in landscape mode for better experience.</span>
                 </div>
                 }
                 
